@@ -54,6 +54,7 @@ URLS = {
         RS: "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?",
         SE: "http://www.nfce.se.gov.br/nfce/qrcode?",
         SP: "https://www.nfce.fazenda.sp.gov.br/qrcode?",
+        SC: "https://sat.sef.sc.gov.br/nfce/consulta?p=",
         TO: "http://www.sefaz.to.gov.br/nfce/qrcode?",
     },
     HOMOLOGACAO: {
@@ -80,6 +81,7 @@ URLS = {
         RS: "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?",
         SE: "http://www.hom.nfe.se.gov.br/nfce/qrcode?",
         SP: "https://www.homologacao.nfce.fazenda.sp.gov.br/qrcode?",
+        SC: "https://hom.sat.sef.sc.gov.br/nfce/consulta?p=",
         TO: "http://homologacao.sefaz.to.gov.br/nfce/qrcode?",
     },
 }
@@ -111,6 +113,7 @@ URLS_EXIBICAO = {
         RS: "www.sefaz.rs.gov.br/nfce/consulta",
         SE: "http://www.nfce.se.gov.br/nfce/consulta",
         SP: "https://www.nfce.fazenda.sp.gov.br/consulta",
+        SC: " https://sat.sef.sc.gov.br/nfce/consulta",
         TO: "www.sefaz.to.gov.br/nfce/consulta",
     },
     HOMOLOGACAO: {
@@ -139,6 +142,7 @@ URLS_EXIBICAO = {
         RS: "www.sefaz.rs.gov.br/nfce/consulta",
         SE: "http://www.hom.nfe.se.gov.br/nfce/consulta",
         SP: "https://www.homologacao.nfce.fazenda.sp.gov.br/consulta",
+        SC: "https://hom.sat.sef.sc.gov.br/nfce/consulta",
         TO: "www.sefaz.to.gov.br/nfce/consulta",
     },
 }
